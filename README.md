@@ -1,2 +1,2 @@
 # Hyggens
-Her er alle mine sjove koder, som jeg bare elskeeer at bruge min fritid på
+Her er alle mine sjove koder, som jeg bare elskeeer diller
